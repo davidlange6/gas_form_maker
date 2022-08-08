@@ -2,6 +2,8 @@
 
 Lame example of a building a questionarre from google apps script attached to a google form
 
+Warning, this script will delete the contents of your form....
+
 How to use?
   * Open a new google form
   * Click the three vertical dots in the very top right for more options
